@@ -7,7 +7,7 @@
         "build": "vue-cli-service build"
     },
     "dependencies": {
-        "@scatterjs/core": "^2.7.44",
+        "@scatterjs/core": "^2.7.54",
         "@scatterjs/eosjs2": "^1.5.26",
         "eosjs": "^20.0.0",
         "vconsole": "^3.3.0",
